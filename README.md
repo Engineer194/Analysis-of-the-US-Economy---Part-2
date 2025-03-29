@@ -13,7 +13,8 @@ See the **[LICENSE](https://www.blackbox.ai/share/LICENSE)** file for details.
 
 ## **Authors and Acknowledgment**
 
-Project Title was created by **[Engineer194](https://github.com/Engineer194/Engineer194)**.
+Project Title is released under the Attribution-NonCommercial 4.0 (CC BY-NC 4.0) License.
+See the **[LICENSE](https://creativecommons.org/licenses/by-nc/4.0/)** file for details.
 
 ## **Changelog**
 
